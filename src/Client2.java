@@ -9,7 +9,7 @@ import java.util.Scanner;
  * The client initialize the server
  * The client allows user to perform operations on server
  */
-public class Client{  
+public class Client2{  
     
 
     private static final SimpleDateFormat dateFormat = new SimpleDateFormat("MM-dd-yyyy HH:mm:ss.SSS");
