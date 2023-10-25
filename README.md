@@ -27,7 +27,7 @@ This is a simple implementation of a remote key-value store using Java RMI (Remo
 
 Before you can use this project, you need to ensure you have the following installed on your system:
 
-- Java Development Kit (JDK)
+- Java Development Kit (JDK 8 or above)
 - Git (if you want to clone this repository)
 
 ---
