@@ -53,13 +53,13 @@ The server is now running and listening for client connections on the specified 
 
 1. Compile the client:
 
-    javac Client.java
-    javac Client2.java
+    - javac Client.java
+    - javac Client2.java
 
 2. Run the client, specifying the IP address and port where the server is running:
 
-    java Client <HOST_IP> <PORT_NUMBER>
-    java Client2 <HOST_IP> <PORT_NUMBER>
+    - java Client <HOST_IP> <PORT_NUMBER>
+    - java Client2 <HOST_IP> <PORT_NUMBER>
 
 3. You can interact with the client by following the on-screen instructions to PUT, GET, DELETE, or exit the client.
 
