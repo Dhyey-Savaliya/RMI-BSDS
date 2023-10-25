@@ -11,7 +11,6 @@ This is a simple implementation of a remote key-value store using Java RMI (Remo
 - [Usage](#usage)
 - [Server](#server)
 - [Client](#client)
-- [License](#license)
 
 ---
 
